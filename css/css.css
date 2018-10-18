@@ -1,0 +1,159 @@
+
+html, body{
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}     
+
+.nav {
+	overflow: hidden
+	background-color:black ;
+	width: 100%;
+	height: 50px;
+	
+	padding: 0;
+	margin: 0;
+	position: fixed;
+	 
+
+
+}
+
+.nav a {
+	text-decoration: none;
+	color: white;
+	margin-top: 6px;
+	font-style :bolder ;
+}
+span.icon:hover{
+border-bottom: solid white 2px; 
+   padding-bottom: 15px;
+ 
+
+}
+p.pages:hover{
+  
+border-bottom: solid white 2px; 
+   padding-bottom: 15px;
+}
+
+p.pages:focus{
+  
+  border-bottom: solid #DD4C4C 2px; 
+   padding-bottom: 15px;
+}
+
+
+.nav .logo{
+	float: left;
+	
+	margin-left: 3em;
+	margin-top: 0.7em;
+    font-size: 20px;
+	font-family: Great Day Personal Use;
+	font-style: bolder;
+}
+
+.nav .icon{
+	padding: 0.2em 0.5em ;
+	font-size: 14px;
+	line-height: 14px;
+	font-weight: 100;
+	float: right;
+	margin-right: 0.5em;
+	margin-top: 16.5px;
+	
+	color: white;
+}
+
+.nav .pages{
+	padding: 0.75em 1em;
+	
+	line-height: 14px;
+	
+	float: right;
+	font-size: 13px;
+	margin-right: 0.25em;
+	margin-top: 10.5px;
+	font-style :bolder;
+	font-family: comfortaa;
+	color:white;
+
+}
+.h{
+	font-size: 80px;
+	font-family: Great Day Personal Use;
+    
+	color: white;
+	text-align: center;
+	margin-top: 100px;
+	
+}
+.y{
+	font-size: 15px;
+	font-family: comfortaa;
+    
+	color: #DD4C4C;
+	text-align: center;
+	margin-top:-90px;
+	
+}
+
+
+
+
+.banner{
+	padding-top: 0px;
+	margin-top: 0px;
+    
+	background-size: cover;
+	background-position: top;
+	height: 500px;
+	text-align: center;
+	color: white;
+    
+
+}
+.banner h1{
+	padding: 2.65em 0 0 0;
+	margin: 0;
+    clear: both;
+    font-size: 80px;
+    font-family: Great Day Personal Use;
+}
+.banner a{
+	text-decoration: none;
+	color: white;
+
+}
+.tagline{
+	font-weight: 100;
+	margin: 0.5em 0 0.5em 0;
+	padding: 0;
+}
+
+
+.banner p.banner-btn{
+	background-color: transparent;
+   color:white; 
+   font-size: 11px;
+   float: center; 
+   display:block;
+   margin:0 auto;
+   width:70px;
+   margin-top: 16px;
+   border:solid 1px  white;
+   border-radius: 100px;
+   font-style: bolder; 
+	
+}
+.banner p.banner-btn:hover{
+	background-color: white;
+	color: #DD4C4C;
+	
+}
+
+
+
+
+

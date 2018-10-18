@@ -1,0 +1,210 @@
+
+body{
+	background-color: white ;
+	margin: 0;
+	padding: 0;
+}     
+
+.nav {
+	overflow: hidden
+	background: white;
+	width: 100%;
+	height: 50px;
+	
+	padding: 0;
+	margin: 0;
+	 box-shadow: 0 2px 2px 0px rgba(0,0,0,0.07);
+
+
+}
+
+.nav a {
+	text-decoration: none;
+	color: #DD4C4C;
+	margin-top: 6px;
+	font-style :bolder ;
+}
+span.icon:hover{
+  color: #DD4C4C; 
+  
+
+}
+span.icon3:hover{
+  color: #DD4C4C; 
+  
+
+}
+
+p.pages:hover{
+  
+color: #DD4C4C;
+}
+
+p.pages:focus{
+  
+  border-bottom: solid #DD4C4C 2px; 
+   padding-bottom: 15px;
+}
+
+
+.nav .logo{
+	float: left;
+	
+	margin-left: 3em;
+	margin-top: 0.7em;
+     font-size: 20px;
+	font-family: Great Day Personal Use;
+	font-style: bolder;
+}
+.nav .icon {
+	padding: 0.2em 0.5em ;
+	font-size: 14px;
+	line-height: 14px;
+	font-weight: 100;
+	float: right;
+	margin-right: 0.5em;
+	margin-top: 16.5px;
+	
+	color: #585858;
+}
+.nav .icon3 {
+	padding: 0.2em 0.5em ;
+	font-size: 14px;
+	line-height: 14px;
+	font-weight: 100;
+	float: right;
+	margin-right: 0.5em;
+	margin-top: 16.5px;
+	
+	color: #585858;
+}
+
+.nav .pages{
+	padding: 0.75em 1em;
+	
+	line-height: 14px;
+	
+	float: right;
+	font-size: 13px;
+	margin-right: 0.25em;
+	margin-top: 10.5px;
+	font-style :bolder;
+	font-family: comfortaa;
+	color: #585858;
+
+}
+.h{
+	font-size: 40px;
+	
+    
+	color: #585858;
+	text-align: center;
+	margin-top: 60px;
+	font-style: bolder;
+	
+}
+.y{
+	font-size: 15px;
+	font-family: comfortaa;
+    
+	color: #DD4C4C;
+	text-align: center;
+	margin-top:-90px;
+	
+}
+
+
+hr{
+	width: 80%;
+	float: center;
+	background-color:  black;
+	margin-top: -10px;
+
+}
+.title{
+	margin-left: 10%;
+	margin-top: 70px;
+	font-size: 20px;
+	color: #585858;
+
+}
+
+.title:hover{
+	margin-left: 10%;
+	margin-top: 70px;
+	font-size: 20px;
+	color: #DD4C4C;
+
+}
+
+
+
+
+.item ul, input[type="checkbox"]{
+	display: none;
+}
+
+
+.item input:checked ~ ul{
+	display: block;
+}
+
+#arrow{
+	vertical-align: middle;
+	float: left;
+	z-index: 0;
+	margin: -0.3em 0.2em 0 10%;
+	color: gray;
+}
+label:hover{
+	cursor: pointer;
+}
+label{
+	width: 100%;
+	display: block;
+	z-index: 3;
+	position: relative;
+}
+
+.item ul, .item li ,label{
+	line-height: 8px;
+	margin:20px;
+	padding: 0 2em;
+	list-style: none;
+	text-decoration: none;
+
+	font-weight: 100px;
+	font-size: 20px;
+
+}
+
+
+.item ul{
+	padding: 0 0.25;
+
+}
+ .item li a{
+ 	line-height: 50px;
+ 	margin: 0;
+ 	padding: 0 4em;
+ 	list-style: none;
+ 	text-decoration: none;
+ 	color: blue;
+ 	font-weight: 100px;
+ }
+
+
+
+
+
+.g{
+	color: red;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,120 @@
+
+
+
+
+
+
+.test{
+	min-height: 480px;
+	text-align: center;
+	color: white;
+    
+
+}
+
+.test .bg-image{
+    position: absolute;
+    background: url('../final45.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 480px;
+    z-index: -1;
+
+}
+
+.test2{
+	min-height: 480px;
+	text-align: left;
+	color: white;
+	margin-top: 120px;
+	  
+    
+
+}
+.test2 .bg-image{
+    position: absolute;
+    background: url('final45.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 480px;
+    z-index: -1;
+
+}
+div >.r:hover{
+	color: red;
+}
+
+
+.test h1{
+	padding: 2.65em 0 0 0;
+	margin: 0;
+    clear: both;
+    font-size: 80px;
+    font-family: Great Day Personal Use;
+}
+.test a{
+	text-decoration: none;
+	color: white;
+
+}
+.tagline{
+	font-weight: 100;
+	margin: 0.5em 0 0.5em 0;
+	padding: 0;
+}
+
+
+.test p.banner-btn{
+	background-color: transparent;
+   color:white; 
+   font-size: 11px;
+   float: center; 
+   display:block;
+   margin:0 auto;
+   width:70px;
+   margin-top: 16px;
+   border:solid 1px  white;
+   border-radius: 100px;
+   font-style: bolder; 
+	
+}
+.test p.banner-btn:hover{
+	background-color: white;
+	color: #1d133c;
+	
+}
+
+
+
+.sec {
+    width: 100%;
+    height: 50px;
+    
+    background-color: #020719;
+    background-position: bottom;
+}
+
+
+
+#main-footer{
+	padding: 1em;
+	background: #f1f1f1;
+	color: #696969;
+	text-align: center;
+	font-size: 13px;
+	font-style:  bold;
+  
+}
+
+#main-footer a{
+	color: #696969;
+	text-decoration: none;
+}
+#main-footer a:hover{
+	color: #734CEA;
+	text-decoration: none;
+}

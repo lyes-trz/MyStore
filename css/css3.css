@@ -1,0 +1,134 @@
+html, body{
+  background-color:white ;
+  margin: 0;
+  padding: 0;
+}     
+
+p.logo{
+	
+	
+	margin-left: 1.2em;
+	margin-top: 0.7em;
+     font-size: 24px;
+	font-family: Great Day Personal Use;
+	font-style: bolder;
+	color: #734CEA;
+
+}
+
+p.login{
+  font-size: 18px;
+  color: #734CEA;
+  font-family: comfortaa;  
+  
+  text-align: center;
+  margin-top: 1.6em;
+  font-style: bold;
+  
+}
+.name{
+   
+    
+   float: center; 
+   display:block;
+   margin:0 auto;
+   width:30%;
+   margin-top: 60px;
+   border-color: transparent;
+   border-bottom-color: #c7c7c7;
+   
+ 
+}
+
+.mail{
+   
+    
+   float: center; 
+   display:block;
+   margin:0 auto;
+   width:30%;
+   margin-top: 30px;
+   border-color: transparent;
+   border-bottom-color: #c7c7c7;
+   
+ 
+}
+
+.subject{
+   
+    
+   float: center; 
+   display:block;
+   margin:0 auto;
+   width:30%;
+   margin-top: 30px;
+   border-color: transparent;
+   border-bottom-color: #c7c7c7;
+ 
+}
+.msg{
+  
+    
+   float: center; 
+   display:block;
+   margin:0 auto;
+   width:30%;
+   margin-top: 45px;
+   border:solid 2px  #c7c7c7;
+ 
+}
+
+.send{
+  
+   background-color: transparent;
+   color:#734CEA; 
+
+   float: center; 
+   display:block;
+   margin:0 auto;
+   width:60px;
+   margin-top: 45px;
+   border:solid 1px  #734CEA;
+   border-radius: 100px;
+   font-style: bolder; 
+
+
+}
+.send:hover{
+	background-color:#734CEA;
+	color: white; 
+}
+
+.subject:focus{
+    outline: none;
+    border-bottom-color: #734CEA;
+    color: #734CEA;
+
+}
+.mail:focus{
+    outline: none;
+    border-bottom-color: #734CEA;
+    color: #734CEA;
+
+}
+.name:focus{
+    outline: none;
+    border-bottom-color: #734CEA;
+   color: #734CEA;
+}
+.msg:focus{
+    outline: none;
+    border-color: #734CEA;
+    color: #734CEA;
+
+}
+.send:focus{
+    outline: none;
+    background-color: #734CEA;
+    color: white;
+
+}
+
+
+
+
