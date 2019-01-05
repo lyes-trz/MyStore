@@ -1,18 +1,6 @@
 # MyStore
 > e-commerce website with Node.js
 
-## Ilyas JABAR
-
-![full-logo](https://user-images.githubusercontent.com/44152758/47159355-98574500-d2e5-11e8-8de7-cd84e3bc445a.jpg)
-
-
-
-## Logo
- ![cbrgt-e5nge](https://user-images.githubusercontent.com/44152758/47175544-475a4780-d30b-11e8-8be6-058425a490cb.png)
-
-
-
-
 ## Screenshots
 
 ![1](https://user-images.githubusercontent.com/44152758/47176759-5393d400-d30e-11e8-85e1-c9be5079f092.jpg)
